@@ -1,6 +1,6 @@
 # UNITS CONVERTOR
 
- This is a units convertor which mainly has three basic options such as Temperature, Currency and Mass. 
+ *This is a units convertor which mainly has three basic options such as Temperature, Currency and Mass. 
  By select the required option the user can do the necessary conversation. 
  By typing 1,2 and 3 displays Temperature conversation, Currency conversation and Mass conversation respectively. 
  And by typing 4 the whole conversator will be exited.
